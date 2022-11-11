@@ -1,2 +1,1 @@
-# Carousel-Project
-Introduction to Javascript Week 6 and 7
+https://github.com/bettywanga/Carousel-Project
