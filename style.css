@@ -1,6 +1,8 @@
 * {box-sizing:border-box}
 h1 {text-align: center;}
-body {background-color:wheat;}
+body {background-color:wheat;
+      overflow: hidden;
+}
 
 .slideshow-container {
   max-width: 1000px;
